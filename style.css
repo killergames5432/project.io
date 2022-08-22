@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+h1{
+color: red;
+font-size: 40px;
+
+}
+
+img {
+  width: 100%;
+ 
+}
+
+.header {
+border: 1px solid orange;
+}
+.one {
+color: white;
+
+}
